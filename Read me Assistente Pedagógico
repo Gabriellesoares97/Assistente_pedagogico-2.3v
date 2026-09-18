@@ -1,0 +1,675 @@
+# 📔 Assistente Pedagógico
+
+**Idiomas / Languages / Idiomas:** [Português (Brasil)](#pt-br) · [Português (Portugal)](#pt-pt) · [English](#en) · [Español](#es)
+
+---
+
+<a name="pt-br"></a>
+Link
+# 🇧🇷 Português (Brasil)
+
+Diário de classe digital para professores: frequência, comportamento, cadernos/apostilas/tarefas, avaliações e Provas Externas, organizados por bimestre — funciona no celular e no computador, com ou sem internet, e em 4 idiomas.
+
+---
+
+## 1. Primeiro acesso
+
+Abra o link do aplicativo (ou o arquivo `index.html`) no navegador. Na primeira vez, a tela aparece vazia, com um botão **"+ Criar primeira sala"**.
+
+> 💡 Quer instalar como aplicativo de verdade (ícone na tela, funciona 100% offline)? Veja o guia de instalação separado, ou procure o botão **"📲 Baixar app"**, que aparece sozinho dentro do painel de ferramentas quando o navegador permite instalar.
+
+---
+
+## 2. Criando sua primeira turma
+
+1. Clique em **"+ Criar primeira sala"** (depois da primeira, use **"+ Nova sala / turma"**, no topo da lista de turmas, à direita da tela).
+2. Dê um nome à turma no campo do topo (ex.: *7ºA*, *Matemática — 6º B*).
+3. Preencha o campo **Escola**, se quiser.
+4. Se essa turma participa do **Mapeamento da Aprendizagem**, marque a caixinha "Turma no Mapeamento" — isso libera o acompanhamento individual do item 6.
+5. Se você só começou a usar o app a partir de um bimestre no meio do ano, veja **"Bimestres anteriores não registrados"** — escolha quantos bimestres já passaram antes, e um espaço pra digitar a nota deles manualmente aparece no Resumo do Ano.
+
+Cada turma ganha uma cor diferente automaticamente. A lista de turmas fica na barra à **direita** da tela, ordenada por padrão pelo número da turma (7ºA, 7ºB, 8ºA...) — dá pra mudar pra ordem alfabética em Configurações. Cada item tem seu próprio botão 🗑 para apagar aquela turma específica.
+
+---
+
+## 3. Adicionando alunos
+
+- **Um por vez**: clique em **"+ Adicionar aluno"** — o cartão dele já abre pronto pra preencher.
+- **Vários de uma vez**: clique em **"📋 Colar lista de alunos"**, cole os nomes (um por linha — aceita numeração/marcadores, que são limpos sozinhos) e confirme.
+
+Os alunos ficam sempre em ordem alfabética. Um campo de busca acima da lista ajuda a encontrar um nome rápido em turmas grandes — se a busca encontrar só 1 aluno, o cartão dele já abre sozinho.
+
+### Cartões recolhíveis
+Cada aluno é um cartão que começa **fechado**, mostrando só o nome e o semáforo. Clique em qualquer parte do cabeçalho (fora do nome e do botão de apagar) pra abrir e ver tudo: frequência, trabalho, ocorrências, comportamento, observações. A **Frequência fica sempre visível**, mesmo com o cartão fechado — dá pra fazer a chamada inteira sem abrir nenhum cartão. Um botão **"Expandir todos / Recolher todos"** abre ou fecha todos de uma vez.
+
+### O semáforo ao lado do nome
+Uma bolinha colorida aparece ao lado de cada aluno: 🟢 vai bem, 🟡 precisa de atenção, 🔴 alerta, ⚪ ainda sem dados suficientes. É calculado sozinho, combinando trabalhos entregues, comportamento e os vistos de caderno/apostila/tarefas do bimestre atual (vistos ainda zerados não contam contra o aluno — só passam a valer depois do primeiro registrado).
+
+---
+
+## 4. O dia a dia: registrando frequência, comportamento e ocorrências
+
+Logo no topo de cada dia letivo, um destaque verde: **"📌 Já registrei a presença de hoje na Sala do Futuro"** — um lembrete rápido pra você marcar assim que lançar a frequência no sistema do governo, e não esquecer. É independente por dia (marcar hoje não afeta os outros dias).
+
+Ainda no topo: o **número da aula** agora é um contador com setas ▲▼ (não precisa mais digitar), e a **quantidade de aulas dadas naquele dia** é escolhida por botão (1, 2, 3, 4) — útil pra aulas geminadas/duplas. Um contador mostra quantas aulas já foram dadas no bimestre, contando só os dias em que a chamada foi realmente preenchida.
+
+O campo **"Conteúdo trabalhado nesta aula"** ganhou chips de frases prontas (Revisão, Conteúdo novo, Exercícios, Avaliação...) — um clique preenche, outro complementa, sem apagar o que já tinha.
+
+Para cada dia letivo, marque para cada aluno:
+
+- **Frequência**: Presente / Ausente / Atraso / **Falta médica** — ou use **"✓ Marcar todos como presentes"**. Por padrão, um dia sem nada marcado já conta como Presente (dá pra desligar isso em Configurações, se preferir que fique "sem registro" até você marcar algo).
+- **Trabalho do bimestre** (Entregue / Pendente).
+- **Mapeamento hoje** (quando aplicável) — Sim/Não, em destaque amarelo.
+- **🚨 Ocorrências do dia**: Atrapalhar o andamento da aula, Ausência não autorizada, Conversas paralelas, Dormindo em aula, Falando palavrão, Não está no Mapeamento (quando aplicável), Não está realizando a atividade proposta, Não trouxe o material, Roupa inadequada, Saiu da sala sem permissão, Se recusa a fazer a atividade, Trouxe objeto não pedagógico, Uso inadequado do celular.
+  > ⚠️ Por padrão, marcar qualquer ocorrência (exceto "Não está no Mapeamento") **baixa automaticamente um nível no Comportamento** daquele aluno naquele dia. Um dia sem nenhuma ocorrência conta como nota máxima. Dá pra desligar esse automatismo em Configurações, se preferir marcar o Comportamento sempre manualmente.
+- **Comportamento** — um dos 4 emojis (ajustável a qualquer momento, inclusive depois de uma ocorrência).
+- **Observações** — texto livre, também com chips de frases prontas (Ótima participação, Empenho em sala, Dificuldade de concentração, Precisa de reforço, entre outras).
+
+### Registros do bimestre (não mudam de dia pra dia)
+Dentro do cartão de cada aluno, uma seção separada — **"📓 Registros do bimestre"** — guarda três contadores que valem pro bimestre inteiro, não pro dia específico:
+
+- **Nº de vistos de caderno**
+- **Nº de atividades da apostila feitas**
+- **Nº de tarefas feitas**
+
+Cada um mostra a nota calculada na hora (proporcional à quantidade, até um número máximo que já vale nota 10 — ajustável em Configurações). Também é possível marcar **"Aluno em atendimento domiciliar"** ali mesmo: as colunas de Presença/Falta/Falta médica/Atraso da chamada normal ficam anuladas pra ele (já que não fazem sentido pra quem recebe ensino domiciliar), mas a contagem de aulas dadas continua funcionando.
+
+---
+
+## 5. Atividades, Avaliações e Provas Externas
+
+Três seções recolhíveis (clique no título para abrir/fechar, cada uma mostra quantos itens já tem cadastrado):
+
+- **📌 Atividades para entregar** — marque quem entregou, aluno por aluno.
+- **📝 Avaliações** — nota de 0 a 10 por aluno, quantas quiser por bimestre.
+- **🎯 Provas Externas** — mesma lógica das avaliações (ex.: Prova Paulista, SAEB, Avaliação Diagnóstica).
+
+---
+
+## 6. Dias da semana da turma (facilita a chamada)
+
+No cabeçalho da turma, marque os dias da semana em que dá aula pra ela (ex.: Segunda, Quarta e Sexta). A partir daí, toda vez que você clicar em **"+ Novo dia de aula"**, a data já vem sugerida certa — cada dia novo avança pro próximo dia da semana marcado (segunda, quarta, sexta, próxima segunda...), mesmo se você criar vários de uma vez, planejando adiantado.
+
+## 7. Mapeamento da Aprendizagem
+
+- Ative por turma ("Turma no Mapeamento", no cabeçalho).
+- Dentro da turma, marque cada aluno individualmente como participante ou não.
+- O campo diário "Cumpriu o Mapeamento hoje?" e o item "Não está no Mapeamento" (nas Ocorrências) usam o mesmo dado — marcar em um reflete no outro.
+
+---
+
+## 8. Vendo os resumos
+
+- **Resumo do bimestre** (dentro de "Registro do bimestre"): **Comportamento** aparece como nota + emoji (ex.: 🙂 8,0), e as notas de **Caderno, Apostila e Trabalho** também aparecem como média (0 a 10), além das contagens de sempre. Cada aluno mostra sua própria contagem de **aulas dadas** (soma a quantidade de aulas nos dias em que teve frequência marcada — fica em branco se nenhuma aula foi registrada pra ele). Termina com a Nota Bimestral e um **gráfico comparando a nota de cada aluno lado a lado**.
+- **📅 Resumo do Ano** (aba própria): uma coluna por bimestre (e, se configurado, colunas extras pra bimestres anteriores que não foram registrados no app, com nota digitada manualmente), presenças, **aulas dadas** e ocorrências totais do ano (somando todos os bimestres), o checklist de **"Presença e registro de aula cadastrados na Sala do Futuro"**, o **gráfico de progresso da turma** (mostra se a sala está melhorando, piorando ou estável) e o gráfico de desempenho por aluno (todos juntos ou um específico). Bimestres sem nenhuma avaliação lançada mostram um campo pra digitar a média manualmente.
+
+Ambos os resumos têm um botão **"📄 Exportar (Word / Google Docs)"** — para o Google Docs, suba o arquivo baixado no Google Drive e escolha "Abrir com Google Docs".
+
+---
+
+## 9. Imprimindo um relatório
+
+Clique em **"🖨️ Relatório / Imprimir"**. A tela se ajusta sozinha (esconde menus e botões), pronta para papel ou PDF.
+
+---
+
+## 10. Sincronizando entre celular e computador
+
+1. Abra o painel de ferramentas (ícone 🛠️, na barra vertical à direita) e clique em **"🔗 Sincronizar entre aparelhos"**.
+2. Siga o passo a passo dentro do app (uns 5 minutos, feito uma única vez).
+3. Cole o **mesmo link** e **mesmo e-mail institucional** em qualquer outro aparelho.
+
+> Não quer mexer com isso agora? Sem problema — o app funciona perfeitamente guardando os dados só no aparelho.
+
+---
+
+## 11. Backup manual (recomendado!)
+
+Dentro do painel de ferramentas:
+- **💾 Baixar backup** — baixa um arquivo com tudo.
+- **📂 Restaurar backup** — recupera os dados a partir desse arquivo, em qualquer aparelho.
+
+---
+
+## 12. Personalizando cores, fonte, idioma e notas
+
+No painel de ferramentas, clique em **"⚙️ Configurações"** — com quatro abas:
+- **🎨 Cores** — preto, branco ou tons pastel, pra cada parte do app.
+- **🔤 Fonte** — Padrão, Elegante, Arredondada, ou Nórdica (inspirada em runas).
+- **🌐 Idioma** — Português (Brasil), Português (Portugal), English, Español (o app inteiro muda na hora), e a ordem da lista de turmas (por número ou por nome A-Z).
+- **📊 Notas** — liga/desliga se um dia sem frequência conta como Presente, se ocorrências baixam o Comportamento automaticamente, e escolhe se Comportamento, Vistos de caderno, Atividades da apostila e Tarefas entram no cálculo da Nota Bimestral (cada um com seu próprio interruptor e sua própria quantidade máxima pra nota 10).
+
+---
+
+## Lista completa de funcionalidades
+
+1. **Turmas**: criar/renomear/apagar, cor sorteada automaticamente, campo Escola, participação no Mapeamento, dias da semana (sugere a data certa, avançando corretamente a cada dia novo), ordenação por número ou por nome, bimestres anteriores não registrados (com nota manual no Resumo do Ano).
+2. **Bimestres**: criar/renomear/apagar, sempre em ordem numérica certa (mesmo apagando um do meio e criando outro depois), aulas planejadas (com botões de preenchimento rápido), navegação por abas.
+3. **Dias letivos**: criar/editar/apagar, mais de uma aula no mesmo dia, sempre organizados por data, navegação por setas/arraste/deslizar.
+4. **Alunos**: um a um ou colar lista, busca por nome (abre sozinho quando acha só 1), ordenação alfabética, cartões recolhíveis com Frequência sempre visível, semáforo de status.
+5. **Registro diário**: lembrete de Sala do Futuro no topo, frequência (incluindo Falta médica, com opção de contar como Presente por padrão), trabalho do bimestre, Mapeamento diário, 13 tipos de ocorrência (12 delas afetam o Comportamento automaticamente, de forma configurável), comportamento, observações com frases prontas (9 opções).
+6. **Registros do bimestre por aluno**: vistos de caderno, atividades da apostila feitas e tarefas feitas — três contadores independentes que valem pro bimestre inteiro (não mudam de dia pra dia), cada um com nota calculada e influenciando o semáforo do aluno.
+7. **Aluno domiciliar**: selo por aluno pra quem recebe ensino domiciliar, com contagem própria de aulas dadas e sem exigir presença/falta na chamada normal.
+8. **Mapeamento**: ativação por turma, participação por aluno, campo diário sincronizado com as ocorrências.
+9. **Atividades, Avaliações e Provas Externas**: cadastro livre, notas com trava de 0–10, seções recolhíveis com contador, nota manual pra bimestres sem avaliação lançada.
+10. **Resumos**: por bimestre (aulas dadas por aluno + notas de Comportamento/Caderno/Apostila/Trabalho + geral + gráfico por aluno) e do ano (tabela consolidada + colunas de bimestres anteriores + checklist Sala do Futuro + gráfico de progresso da turma + gráfico de desempenho).
+11. **Exportação**: relatório para impressão/PDF e exportação para Word/Google Docs (bimestre e ano, separados).
+12. **Backup manual**: baixar e restaurar um arquivo com todos os dados.
+13. **Sincronização**: entre aparelhos, via Planilha do Google, com tutorial completo embutido.
+14. **Configurações**: cores (preto/branco/pastéis), 4 fontes, 4 idiomas, ordem da lista de turmas, e uma aba de Notas completa (frequência padrão, ocorrências x comportamento, e o que entra na Nota Bimestral) — tudo com aplicação instantânea.
+15. **PWA**: instalável no celular e computador (com passo a passo por aparelho quando o navegador não oferece instalação automática), funciona 100% offline, atualiza sozinho sem duplicar, botão "Verificar atualização" e guia de "Como desinstalar".
+16. **Painel de ferramentas**: barra vertical à direita, desliza sem escurecer a tela.
+17. **Ícone próprio**: sem fundo, preparado para ser empacotado como `.apk`/`.exe` de verdade via PWABuilder.
+
+---
+
+## Dúvidas comuns
+
+- **Perdi a sincronização, e agora?** Seus dados continuam salvos no aparelho normalmente.
+- **Apaguei algo por engano?** Toda exclusão pede confirmação antes.
+- **O app não abre sem internet?** Isso só funciona depois de instalado como aplicativo. Pelo navegador comum, é preciso estar online.
+
+
+---
+
+<a name="pt-pt"></a>
+
+# 🇵🇹 Português (Portugal)
+
+Diário de turma digital para professores: assiduidade, comportamento, cadernos/apostilas/trabalhos de casa, avaliações e Provas Externas, organizados por período — funciona no telemóvel e no computador, com ou sem ligação à internet, e em 4 idiomas.
+
+---
+
+## 1. Primeiro acesso
+
+Abra a ligação da aplicação (ou o ficheiro `index.html`) no navegador. Na primeira vez, o ecrã aparece vazio, com um botão **"+ Criar primeira turma"**.
+
+> 💡 Quer instalar como aplicação a sério (ícone no ecrã principal, funciona 100% sem ligação)? Veja o guia de instalação em separado, ou procure o botão **"📲 Instalar app"**, que aparece sozinho dentro do painel de ferramentas quando o navegador permite instalar.
+
+---
+
+## 2. Criando a sua primeira turma
+
+1. Clique em **"+ Criar primeira turma"** (depois, use **"+ Nova turma"**, no topo da lista de turmas, do lado direito do ecrã).
+2. Dê um nome à turma no campo do topo (ex.: *7ºA*, *Matemática — 6º B*).
+3. Preencha o campo **Escola**, se quiser.
+4. Se esta turma participa no **Mapeamento**, assinale a caixa "Turma no Mapeamento" — isso liberta o acompanhamento individual descrito na secção 6.
+5. Se só começou a usar a app a partir de um período a meio do ano, veja **"Períodos anteriores não registados"** — escolha quantos períodos já passaram antes, e aparece um espaço para escrever a nota deles manualmente no Resumo do Ano.
+
+Cada turma ganha uma cor diferente automaticamente. A lista de turmas fica no painel do lado **direito** do ecrã, ordenada por padrão pelo número da turma (7ºA, 7ºB, 8ºA...) — dá para mudar para ordem alfabética nas Definições. Cada item tem o seu próprio botão 🗑 para eliminar aquela turma especificamente.
+
+---
+
+## 3. Adicionando alunos
+
+- **Um de cada vez**: clique em **"+ Adicionar aluno"** — o cartão dele já abre pronto a preencher.
+- **Vários de uma vez**: clique em **"📋 Colar lista de alunos"**, cole os nomes (um por linha — numeração/marcadores são limpos automaticamente) e confirme.
+
+Os alunos ficam sempre por ordem alfabética. Um campo de pesquisa acima da lista ajuda a encontrar um nome rapidamente em turmas grandes — se a pesquisa encontrar só 1 aluno, o cartão dele já abre sozinho.
+
+### Cartões recolhíveis
+Cada aluno é um cartão que começa **fechado**, mostrando só o nome e o semáforo. Clique em qualquer parte do cabeçalho (fora do nome e do botão de eliminar) para abrir e ver tudo: assiduidade, trabalho, ocorrências, comportamento, observações. A **Assiduidade fica sempre visível**, mesmo com o cartão fechado — dá para fazer a chamada inteira sem abrir nenhum cartão. Um botão **"Expandir todos / Recolher todos"** abre ou fecha todos de uma vez.
+
+### O semáforo ao lado do nome
+Uma bolinha colorida aparece ao lado de cada aluno: 🟢 vai bem, 🟡 precisa de atenção, 🔴 alerta, ⚪ ainda sem dados suficientes. É calculado automaticamente, combinando trabalhos entregues, comportamento e os registos de caderno/apostila/trabalhos de casa do período atual (registos ainda a zero não contam contra o aluno — só passam a valer depois do primeiro registado).
+
+---
+
+## 4. O dia a dia: assiduidade, comportamento e ocorrências
+
+Logo no topo de cada dia de aula, um destaque verde: **"📌 Já registei a assiduidade de hoje na Sala do Futuro"** — um lembrete rápido para assinalar assim que lançar a assiduidade no sistema do governo, e não se esquecer. É independente por dia (assinalar hoje não afeta os outros dias).
+
+Ainda no topo: o **número da aula** agora é um contador com setas ▲▼ (já não é preciso escrever), e a **quantidade de aulas dadas nesse dia** escolhe-se por botão (1, 2, 3, 4) — útil para aulas geminadas/duplas. Um contador mostra quantas aulas já foram dadas no período, contando só os dias em que a assiduidade foi mesmo lançada.
+
+O campo **"Conteúdo trabalhado nesta aula"** ganhou chips de frases prontas (Revisão, Conteúdo novo, Exercícios, Avaliação...) — um clique preenche, outro complementa, sem apagar o que já lá estava.
+
+Para cada dia de aula, assinale para cada aluno:
+
+- **Assiduidade**: Presente / Ausente / Atraso / **Falta médica** — ou use **"✓ Marcar todos como presentes"**. Por padrão, um dia sem nada assinalado já conta como Presente (dá para desligar isto nas Definições, se preferir que fique "sem registo" até assinalar algo).
+- **Trabalho do período** (Entregue / Pendente).
+- **Mapeamento hoje** (quando aplicável) — Sim/Não, em destaque amarelo.
+- **🚨 Ocorrências do dia**: Atrapalhar o andamento da aula, Ausência não autorizada, Conversas paralelas, A dizer asneiras, A dormir na aula, Não está no Mapeamento (quando aplicável), Não está a realizar a atividade proposta, Não trouxe o material, Recusa-se a fazer a atividade, Roupa inadequada, Saiu da sala sem permissão, Trouxe objeto não pedagógico, Uso inadequado do telemóvel.
+  > ⚠️ Por padrão, assinalar qualquer ocorrência (exceto "Não está no Mapeamento") **baixa automaticamente um nível no Comportamento** desse aluno nesse dia. Um dia sem nenhuma ocorrência conta como nota máxima. Dá para desligar este automatismo nas Definições, se preferir assinalar o Comportamento sempre manualmente.
+- **Comportamento** — um dos 4 emojis (ajustável a qualquer momento, mesmo depois de uma ocorrência).
+- **Observações** — texto livre, também com chips de frases prontas (Ótima participação, Empenho na aula, Dificuldade de concentração, Precisa de reforço, entre outras).
+
+### Registos do período (não mudam de dia para dia)
+Dentro do cartão de cada aluno, uma secção separada — **"📓 Registos do período"** — guarda três contadores que valem para o período inteiro, não para o dia específico:
+
+- **Nº de vistos de caderno**
+- **Nº de atividades da apostila feitas**
+- **Nº de trabalhos de casa feitos**
+
+Cada um mostra a nota calculada na hora (proporcional à quantidade, até um número máximo que já vale nota 10 — ajustável nas Definições). Também é possível assinalar **"Aluno em atendimento domiciliário"** ali mesmo: as colunas de Presença/Falta/Falta médica/Atraso da assiduidade normal ficam anuladas para ele (já que não fazem sentido para quem recebe ensino domiciliário), mas a contagem de aulas dadas continua a funcionar.
+
+---
+
+## 5. Atividades, Avaliações e Provas Externas
+
+Três secções recolhíveis (clique no título para abrir/fechar, cada uma mostra quantos itens já tem registados):
+
+- **📌 Atividades para entregar** — assinale quem entregou, aluno a aluno.
+- **📝 Avaliações** — nota de 0 a 10 por aluno, quantas quiser por período.
+- **🎯 Provas Externas** — mesma lógica das avaliações.
+
+---
+
+## 6. Dias da semana da turma (facilita a assiduidade)
+
+No cabeçalho da turma, assinale os dias da semana em que dá aula a essa turma (ex.: Segunda, Quarta e Sexta). A partir daí, sempre que clicar em **"+ Novo dia de aula"**, a data já vem sugerida corretamente — cada dia novo avança para o próximo dia da semana assinalado, mesmo se criar vários de uma vez, planeando com antecedência.
+
+## 7. Mapeamento
+
+- Ative por turma ("Turma no Mapeamento", no cabeçalho).
+- Dentro da turma, assinale cada aluno individualmente como participante ou não.
+- O campo diário "Cumpriu o Mapeamento hoje?" e o item "Não está no Mapeamento" (nas Ocorrências) usam o mesmo dado — assinalar num reflete no outro.
+
+---
+
+## 8. Consultando os resumos
+
+- **Resumo do período** (dentro de "Registo do período"): **Comportamento** aparece como nota + emoji (ex.: 🙂 8,0), e as notas de **Caderno, Apostila e Trabalho** também aparecem como média (0 a 10), além das contagens habituais. Cada aluno mostra a sua própria contagem de **aulas dadas** (soma a quantidade de aulas nos dias em que teve assiduidade assinalada — fica em branco se nenhuma aula foi registada para ele). Termina com a Nota do Período e um **gráfico que compara a nota de cada aluno lado a lado**.
+- **📅 Resumo do Ano** (separador próprio): uma coluna por período (e, se configurado, colunas extra para períodos anteriores não registados na app, com nota escrita manualmente), presenças, **aulas dadas** e ocorrências totais do ano, o checklist **"Presença e registo de aula cadastrados na Sala do Futuro"**, o **gráfico de progresso da turma** e o gráfico de desempenho por aluno. Períodos sem nenhuma avaliação lançada mostram um campo para escrever a média manualmente.
+
+Ambos os resumos têm um botão **"📄 Exportar (Word / Google Docs)"**.
+
+---
+
+## 9. Imprimindo um relatório
+
+Clique em **"🖨️ Relatório / Imprimir"**. O ecrã ajusta-se sozinho, pronto para papel ou PDF.
+
+---
+
+## 10. Sincronizando entre telemóvel e computador
+
+1. Abra o painel de ferramentas (ícone 🛠️) e clique em **"🔗 Sincronizar entre aparelhos"**.
+2. Siga o passo a passo dentro da app.
+3. Cole a **mesma ligação** e **mesmo e-mail institucional** em qualquer outro aparelho.
+
+> Não quer mexer nisto agora? Sem problema — a app funciona perfeitamente guardando os dados só no aparelho.
+
+---
+
+## 11. Cópia de segurança manual (recomendado!)
+
+Dentro do painel de ferramentas:
+- **💾 Transferir cópia de segurança** — descarrega um ficheiro com tudo.
+- **📂 Restaurar cópia de segurança** — recupera os dados a partir desse ficheiro.
+
+---
+
+## 12. Personalizar cores, tipo de letra, idioma e notas
+
+No painel de ferramentas, clique em **"⚙️ Definições"** — com quatro separadores:
+- **🎨 Cores** — preto, branco ou tons pastel.
+- **🔤 Tipo de letra** — Padrão, Elegante, Arredondada, ou Nórdica.
+- **🌐 Idioma** — Português (Brasil), Português (Portugal), English, Español, e a ordem da lista de turmas (por número ou por nome A-Z).
+- **📊 Notas** — liga/desliga se um dia sem assiduidade conta como Presente, se as ocorrências baixam o Comportamento automaticamente, e escolhe se Comportamento, Vistos de caderno, Atividades da apostila e Trabalhos de casa entram no cálculo da Nota do Período.
+
+---
+
+## Lista completa de funcionalidades
+
+1. **Turmas**: criar/renomear/eliminar, cor sorteada automaticamente, campo Escola, participação no Mapeamento, dias da semana, ordenação por número ou por nome, períodos anteriores não registados.
+2. **Períodos**: criar/renomear/eliminar, sempre em ordem numérica certa, aulas planeadas, navegação por separadores.
+3. **Dias de aula**: criar/editar/eliminar, mais de uma aula no mesmo dia, navegação por setas/arrastar/deslizar.
+4. **Alunos**: um a um ou colar lista, pesquisa por nome, cartões recolhíveis com Assiduidade sempre visível, semáforo de estado.
+5. **Registo diário**: lembrete de Sala do Futuro, assiduidade (incluindo Falta médica, com opção de contar como Presente por padrão), trabalho do período, Mapeamento diário, 13 tipos de ocorrência (12 baixam o Comportamento automaticamente, de forma configurável), comportamento, observações com frases prontas.
+6. **Registos do período por aluno**: vistos de caderno, atividades da apostila feitas e trabalhos de casa feitos — contadores independentes que valem para o período inteiro, cada um com nota calculada e a influenciar o semáforo.
+7. **Aluno domiciliário**: selo por aluno, com contagem própria de aulas dadas.
+8. **Mapeamento**: ativação por turma, participação por aluno.
+9. **Atividades, Avaliações e Provas Externas**: cadastro livre, notas com trava de 0–10, nota manual para períodos sem avaliação.
+10. **Resumos**: por período e do ano, com colunas de períodos anteriores e gráficos.
+11. **Exportação**: relatório para impressão/PDF e exportação para Word/Google Docs.
+12. **Cópia de segurança manual**: transferir e restaurar um ficheiro com todos os dados.
+13. **Sincronização**: entre aparelhos, via Folha de Cálculo do Google.
+14. **Definições**: cores, 4 tipos de letra, 4 idiomas, ordem da lista de turmas, e um separador de Notas completo.
+15. **PWA**: instalável, funciona 100% offline, atualiza-se sozinho.
+16. **Painel de ferramentas**: barra vertical do lado direito.
+17. **Ícone próprio**: sem fundo, preparado para `.apk`/`.exe` via PWABuilder.
+
+---
+
+## Dúvidas comuns
+
+- **Perdi a sincronização, e agora?** Os seus dados continuam guardados no aparelho normalmente.
+- **Eliminei algo por engano?** Toda a eliminação pede confirmação antes.
+- **A app não abre sem ligação à internet?** Isso só funciona depois de instalada como aplicação. Pelo navegador comum, é preciso estar online.
+
+
+---
+
+<a name="en"></a>
+
+# 🇬🇧 English
+
+Digital class diary for teachers: attendance, behavior, notebooks/workbooks/homework, assessments and External Exams, organized by term — works on phone and computer, with or without internet, in 4 languages.
+
+---
+
+## 1. First access
+
+Open the app's link (or the `index.html` file) in your browser. The first time, the screen appears empty, with a **"+ Create first class"** button.
+
+> 💡 Want to install it as a real app (icon on your screen, works 100% offline)? See the separate installation guide, or look for the **"📲 Download app"** button, which appears on its own inside the tools panel when your browser allows installation.
+
+---
+
+## 2. Creating your first class
+
+1. Click **"+ Create first class"** (afterwards, use **"+ New class"**, at the top of the class list, on the right side of the screen).
+2. Give the class a name in the top field (e.g., *7A*, *Math — Grade 6B*).
+3. Fill in the **School** field, if you'd like.
+4. If this class takes part in a **Mapping Program**, check the "Class in Mapping Program" box — this unlocks per-student tracking described in section 6.
+5. If you only started using the app from a term partway through the year, see **"Unrecorded previous terms"** — choose how many previous terms already happened, and a field to type in their grade manually appears in the Year Summary.
+
+Each class automatically gets a different color. The class list stays on the **right-hand** panel of the screen, sorted by default by class number (7A, 7B, 8A...) — you can switch to alphabetical order in Settings. Each item has its own 🗑 button to delete that specific class.
+
+---
+
+## 3. Adding students
+
+- **One at a time**: click **"+ Add student"** — their card opens ready to fill in right away.
+- **Several at once**: click **"📋 Paste student list"**, paste the names (one per line — numbering/bullets are cleaned up automatically) and confirm.
+
+Students always stay in alphabetical order. A search field above the list helps you find a name quickly in large classes — if the search finds only 1 student, their card opens on its own.
+
+### Collapsible cards
+Each student is a card that starts **closed**, showing just the name and the status light. Click anywhere on the header (outside the name and delete button) to open it and see everything: attendance, assignment, incidents, behavior, notes. **Attendance stays always visible**, even with the card closed — you can take the whole roll call without opening a single card. An **"Expand all / Collapse all"** button opens or closes them all at once.
+
+### The status light next to the name
+A colored dot appears next to each student: 🟢 doing well, 🟡 needs attention, 🔴 alert, ⚪ not enough data yet. It's calculated automatically, combining assignments turned in, behavior, and notebook/workbook/homework checks for the current term (checks still at zero don't count against the student — they only kick in once at least one has been logged).
+
+---
+
+## 4. Day to day: recording attendance, behavior and incidents
+
+Right at the top of each class day, a green highlight: **"📌 I've already logged today's attendance in Sala do Futuro"** — a quick reminder to check off once you've entered attendance in the government system, so you don't forget. It's independent per day (checking it today doesn't affect other days).
+
+Also at the top: the **class number** is now a counter with ▲▼ arrows (no more typing), and the **number of classes taught that day** is chosen with a button (1, 2, 3, 4) — handy for double periods. A counter shows how many classes have been taught this term, counting only days where attendance was actually filled in.
+
+The **"Content covered in this class"** field got preset-phrase chips (Review, New content, Exercises, Assessment...) — one click fills it in, another adds to it, without erasing what was already there.
+
+For each class day, mark for each student:
+
+- **Attendance**: Present / Absent / Late / **Medical leave** — or use **"✓ Mark all as present"**. By default, a day with nothing marked already counts as Present (you can turn this off in Settings if you'd rather it stayed "unmarked" until you check something).
+- **Term assignment** (Turned in / Pending).
+- **Mapping Program today** (when applicable) — Yes/No, highlighted in yellow.
+- **🚨 Incidents today**: Disrupting the class, Unauthorized absence, Side conversations, Sleeping in class, Using inappropriate language, Not in the Mapping Program (when applicable), Not doing the assigned activity, Did not bring materials, Inappropriate clothing, Left the room without permission, Refuses to do the activity, Brought a non-educational object, Inappropriate phone use.
+  > ⚠️ By default, checking any incident (except "Not in the Mapping Program") **automatically lowers Behavior by one level** for that student that day. A day with no incidents counts as the maximum grade. You can turn this automation off in Settings if you'd rather always set Behavior manually.
+- **Behavior** — one of 4 emoji (adjustable any time, even after an incident).
+- **Notes** — free text, also with preset-phrase chips (Great participation, Effort in class, Trouble concentrating, Needs extra support, among others).
+
+### Term records (don't change day to day)
+Inside each student's card, a separate section — **"📓 Term records"** — holds three counters that apply to the whole term, not to a specific day:
+
+- **No. of notebook checks**
+- **No. of workbook activities done**
+- **No. of homework done**
+
+Each shows a live-calculated grade (proportional to the count, up to a maximum number that already earns grade 10 — adjustable in Settings). You can also check **"Student on home instruction"** right there: the regular Attendance/Absent/Medical leave/Late columns get nulled out for them (since those don't apply to someone on home instruction), but the classes-taught count keeps working.
+
+---
+
+## 5. Assignments, Assessments and External Exams
+
+Three collapsible sections (click the title to open/close, each shows how many items are already recorded):
+
+- **📌 Assignments to turn in** — check off who turned it in, student by student.
+- **📝 Assessments** — grade from 0 to 10 per student, as many as you'd like per term.
+- **🎯 External Exams** — same logic as assessments.
+
+---
+
+## 6. Class weekdays (makes attendance easier)
+
+In the class header, check the weekdays you teach this class (e.g., Monday, Wednesday, Friday). From then on, every time you click **"+ New class day"**, the date is already suggested correctly — each new day advances to the next checked weekday, even if you create several at once, planning ahead.
+
+## 7. Mapping Program
+
+- Turn it on per class ("Class in Mapping Program", in the header).
+- Within the class, mark each student individually as participating or not.
+- The daily "Did they complete the Mapping Program today?" field and the "Not in the Mapping Program" incident use the same data — checking one reflects in the other.
+
+---
+
+## 8. Viewing summaries
+
+- **Term summary** (inside "Term record"): **Behavior** shows as a grade + emoji (e.g., 🙂 8.0), and the **Notebook, Workbook and Assignment** grades also show as an average (0 to 10), alongside the usual counts. Each student shows their own **classes taught** count (adds up the number of classes on days they had attendance marked — stays blank if none were logged for them). Ends with the Term Grade and a **chart comparing each student's grade side by side**.
+- **📅 Year Summary** (its own tab): one column per term (plus, if configured, extra columns for previous terms not recorded in the app, with a manually typed grade), total attendance, **classes taught**, and incidents for the year, the **"Sala do Futuro"** checklist, the **class progress chart** and the per-student performance chart. Terms with no assessment entered show a field to type in the average manually.
+
+Both summaries have a **"📄 Export (Word / Google Docs)"** button.
+
+---
+
+## 9. Printing a report
+
+Click **"🖨️ Report / Print"**. The screen adjusts itself, ready for paper or PDF.
+
+---
+
+## 10. Syncing between phone and computer
+
+1. Open the tools panel (🛠️ icon) and click **"🔗 Sync between devices"**.
+2. Follow the steps inside the app.
+3. Paste the **same link** and **same institutional email** on any other device.
+
+> Don't want to deal with this now? No problem — the app works perfectly saving data only on the device.
+
+---
+
+## 11. Manual backup (recommended!)
+
+Inside the tools panel:
+- **💾 Download backup** — downloads a file with everything.
+- **📂 Restore backup** — recovers the data from that file.
+
+---
+
+## 12. Customizing colors, font, language and grades
+
+In the tools panel, click **"⚙️ Settings"** — with four tabs:
+- **🎨 Colors** — black, white, or pastel tones.
+- **🔤 Font** — Default, Elegant, Rounded, or Nordic.
+- **🌐 Language** — Português (Brazil), Português (Portugal), English, Español, and the class list order (by number or by name A-Z).
+- **📊 Grades** — turn on/off whether a day with no attendance counts as Present, whether incidents automatically lower Behavior, and choose whether Behavior, Notebook checks, Workbook activities and Homework count toward the Term Grade.
+
+---
+
+## Full feature list
+
+1. **Classes**: create/rename/delete, automatically random color, School field, Mapping Program participation, weekdays, sorting by number or name, unrecorded previous terms.
+2. **Terms**: create/rename/delete, always in correct numeric order, planned classes, tab navigation.
+3. **Class days**: create/edit/delete, more than one class per day, navigation by arrows/drag/swipe.
+4. **Students**: one at a time or paste list, name search, collapsible cards with Attendance always visible, status light.
+5. **Daily record**: Sala do Futuro reminder, attendance (including Medical leave, with option to default to Present), term assignment, daily Mapping Program, 13 incident types (12 automatically lower Behavior, configurable), behavior, notes with preset phrases.
+6. **Per-student term records**: notebook checks, workbook activities done, and homework done — independent counters for the whole term, each with a calculated grade influencing the status light.
+7. **Student on home instruction**: a badge per student, with their own classes-taught count.
+8. **Mapping Program**: per-class activation, per-student participation.
+9. **Assignments, Assessments and External Exams**: free entry, grades capped at 0–10, manual grade for terms with no assessment.
+10. **Summaries**: per term and yearly, with previous-term columns and charts.
+11. **Export**: print/PDF report and Word/Google Docs export.
+12. **Manual backup**: download and restore a file with all the data.
+13. **Sync**: between devices, via Google Sheets.
+14. **Settings**: colors, 4 fonts, 4 languages, class list order, and a full Grades tab.
+15. **PWA**: installable, works 100% offline, updates itself.
+16. **Tools panel**: vertical bar on the right.
+17. **Custom icon**: no background, ready for `.apk`/`.exe` via PWABuilder.
+
+---
+
+## Common questions
+
+- **I lost sync, now what?** Your data stays saved on the device normally.
+- **I deleted something by mistake?** Every deletion asks for confirmation first.
+- **The app doesn't open without internet?** That only works once it's installed as an app. Through a regular browser, you need to be online.
+
+
+---
+
+<a name="es"></a>
+
+# 🇪🇸 Español
+
+Diario de clase digital para docentes: asistencia, comportamiento, cuadernos/apostilas/tareas, evaluaciones y Exámenes Externos, organizados por bimestre — funciona en el celular y en la computadora, con o sin internet, y en 4 idiomas.
+
+---
+
+## 1. Primer acceso
+
+Abre el enlace de la aplicación (o el archivo `index.html`) en el navegador. La primera vez, la pantalla aparece vacía, con un botón **"+ Crear primera clase"**.
+
+> 💡 ¿Quieres instalarla como aplicación de verdad (ícono en la pantalla, funciona 100% sin conexión)? Consulta la guía de instalación por separado, o busca el botón **"📲 Descargar app"**, que aparece solo dentro del panel de herramientas cuando el navegador permite instalar.
+
+---
+
+## 2. Creando tu primera clase
+
+1. Haz clic en **"+ Crear primera clase"** (después, usa **"+ Nueva clase"**, en la parte superior de la lista de clases, a la derecha de la pantalla).
+2. Dale un nombre a la clase en el campo superior (ej.: *7ºA*, *Matemáticas — 6º B*).
+3. Completa el campo **Escuela**, si quieres.
+4. Si esta clase participa en el **Mapeamento**, marca la casilla "Clase en el Mapeamento" — esto habilita el seguimiento individual descrito en la sección 6.
+5. Si solo empezaste a usar la app a partir de un bimestre a mitad de año, revisa **"Bimestres anteriores no registrados"** — elige cuántos bimestres ya pasaron antes, y aparece un espacio para escribir su nota manualmente en el Resumen del Año.
+
+Cada clase recibe un color diferente automáticamente. La lista de clases queda en el panel del lado **derecho** de la pantalla, ordenada por defecto por el número de la clase (7ºA, 7ºB, 8ºA...) — puedes cambiar a orden alfabético en Configuración. Cada elemento tiene su propio botón 🗑 para eliminar esa clase específica.
+
+---
+
+## 3. Agregando estudiantes
+
+- **Uno por uno**: haz clic en **"+ Agregar estudiante"** — su tarjeta ya se abre lista para completar.
+- **Varios a la vez**: haz clic en **"📋 Pegar lista de estudiantes"**, pega los nombres (uno por línea — la numeración/viñetas se limpian solas) y confirma.
+
+Los estudiantes quedan siempre en orden alfabético. Un campo de búsqueda arriba de la lista ayuda a encontrar un nombre rápido en clases grandes — si la búsqueda encuentra solo 1 estudiante, su tarjeta se abre sola.
+
+### Tarjetas plegables
+Cada estudiante es una tarjeta que empieza **cerrada**, mostrando solo el nombre y el semáforo. Haz clic en cualquier parte del encabezado (fuera del nombre y del botón de eliminar) para abrirla y ver todo: asistencia, trabajo, incidencias, comportamiento, observaciones. La **Asistencia queda siempre visible**, incluso con la tarjeta cerrada — puedes pasar lista completa sin abrir ninguna tarjeta. Un botón **"Expandir todos / Contraer todos"** los abre o cierra a todos de una vez.
+
+### El semáforo junto al nombre
+Aparece un punto de color junto a cada estudiante: 🟢 va bien, 🟡 necesita atención, 🔴 alerta, ⚪ aún sin datos suficientes. Se calcula solo, combinando trabajos entregados, comportamiento y las revisiones de cuaderno/apostila/tareas del bimestre actual (las revisiones en cero todavía no cuentan en contra del estudiante — solo empiezan a valer después de que se registre al menos una).
+
+---
+
+## 4. El día a día: registrando asistencia, comportamiento e incidencias
+
+Justo arriba de cada día de clase, un destacado verde: **"📌 Ya registré la asistencia de hoy en Sala do Futuro"** — un recordatorio rápido para marcar apenas registres la asistencia en el sistema del gobierno, y no olvidarlo. Es independiente por día (marcarlo hoy no afecta los otros días).
+
+También arriba: el **número de la clase** ahora es un contador con flechas ▲▼ (ya no hay que escribir), y la **cantidad de clases dadas ese día** se elige con un botón (1, 2, 3, 4) — útil para clases dobles. Un contador muestra cuántas clases ya se dieron en el bimestre, contando solo los días en que la asistencia realmente se completó.
+
+El campo **"Contenido trabajado en esta clase"** ahora tiene chips de frases listas (Revisión, Contenido nuevo, Ejercicios, Evaluación...) — un clic lo completa, otro lo agrega, sin borrar lo que ya había.
+
+Para cada día de clase, marca para cada estudiante:
+
+- **Asistencia**: Presente / Ausente / Tardanza / **Falta médica** — o usa **"✓ Marcar todos como presentes"**. Por defecto, un día sin nada marcado ya cuenta como Presente (puedes desactivar esto en Configuración si prefieres que quede "sin registro" hasta que marques algo).
+- **Trabajo del bimestre** (Entregado / Pendiente).
+- **Mapeamento hoy** (cuando aplica) — Sí/No, destacado en amarillo.
+- **🚨 Incidencias del día**: Interrumpir el desarrollo de la clase, Ausencia no autorizada, Conversaciones paralelas, Diciendo groserías, Durmiendo en clase, No está en el Mapeamento (cuando aplica), No está realizando la actividad propuesta, No trajo el material, Ropa inadecuada, Salió del aula sin permiso, Se niega a hacer la actividad, Trajo un objeto no pedagógico, Uso inadecuado del celular.
+  > ⚠️ Por defecto, marcar cualquier incidencia (excepto "No está en el Mapeamento") **baja automáticamente un nivel el Comportamiento** de ese estudiante ese día. Un día sin ninguna incidencia cuenta como nota máxima. Puedes desactivar este automatismo en Configuración si prefieres marcar el Comportamiento siempre manualmente.
+- **Comportamiento** — uno de los 4 emojis (ajustable en cualquier momento, incluso después de una incidencia).
+- **Observaciones** — texto libre, también con chips de frases listas (Excelente participación, Esfuerzo en clase, Dificultad de concentración, Necesita refuerzo, entre otras).
+
+### Registros del bimestre (no cambian de un día a otro)
+Dentro de la tarjeta de cada estudiante, una sección separada — **"📓 Registros del bimestre"** — guarda tres contadores que valen para todo el bimestre, no para el día específico:
+
+- **Nº de revisiones del cuaderno**
+- **Nº de actividades de la apostila hechas**
+- **Nº de tareas hechas**
+
+Cada uno muestra la nota calculada al instante (proporcional a la cantidad, hasta un número máximo que ya vale nota 10 — ajustable en Configuración). También se puede marcar **"Estudiante en atención domiciliaria"** ahí mismo: las columnas de Presencia/Falta/Falta médica/Tardanza de la asistencia normal quedan anuladas para él (ya que no aplican a quien recibe educación domiciliaria), pero el conteo de clases dadas sigue funcionando.
+
+---
+
+## 5. Actividades, Evaluaciones y Exámenes Externos
+
+Tres secciones plegables (haz clic en el título para abrir/cerrar, cada una muestra cuántos ítems ya tiene registrados):
+
+- **📌 Actividades para entregar** — marca quién entregó, estudiante por estudiante.
+- **📝 Evaluaciones** — nota de 0 a 10 por estudiante, las que quieras por bimestre.
+- **🎯 Exámenes Externos** — misma lógica que las evaluaciones.
+
+---
+
+## 6. Días de la semana de la clase (facilita la asistencia)
+
+En el encabezado de la clase, marca los días de la semana en que le das clase (ej.: Lunes, Miércoles y Viernes). A partir de ahí, cada vez que hagas clic en **"+ Nuevo día de clase"**, la fecha ya viene sugerida correctamente — cada día nuevo avanza al próximo día de la semana marcado, incluso si creas varios de una vez, planificando con anticipación.
+
+## 7. Mapeamento
+
+- Actívalo por clase ("Clase en el Mapeamento", en el encabezado).
+- Dentro de la clase, marca cada estudiante individualmente como participante o no.
+- El campo diario "¿Cumplió el Mapeamento hoy?" y el ítem "No está en el Mapeamento" (en las Incidencias) usan el mismo dato — marcar uno se refleja en el otro.
+
+---
+
+## 8. Viendo los resúmenes
+
+- **Resumen del bimestre** (dentro de "Registro del bimestre"): **Comportamiento** aparece como nota + emoji (ej.: 🙂 8,0), y las notas de **Cuaderno, Apostila y Trabajo** también aparecen como promedio (0 a 10), además de los conteos habituales. Cada estudiante muestra su propio conteo de **clases dadas** (suma la cantidad de clases en los días en que tuvo asistencia marcada — queda en blanco si no se registró ninguna clase para él). Termina con la Nota del Bimestre y un **gráfico que compara la nota de cada estudiante lado a lado**.
+- **📅 Resumen del Año** (pestaña propia): una columna por bimestre (y, si está configurado, columnas extra para bimestres anteriores no registrados en la app, con nota escrita manualmente), asistencias, **clases dadas** e incidencias totales del año, el checklist **"Presencia y registro de clase en Sala do Futuro"**, el **gráfico de progreso de la clase** y el gráfico de rendimiento por estudiante. Los bimestres sin ninguna evaluación registrada muestran un campo para escribir el promedio manualmente.
+
+Ambos resúmenes tienen un botón **"📄 Exportar (Word / Google Docs)"**.
+
+---
+
+## 9. Imprimiendo un informe
+
+Haz clic en **"🖨️ Informe / Imprimir"**. La pantalla se ajusta sola, lista para papel o PDF.
+
+---
+
+## 10. Sincronizando entre celular y computadora
+
+1. Abre el panel de herramientas (ícono 🛠️) y haz clic en **"🔗 Sincronizar entre dispositivos"**.
+2. Sigue los pasos dentro de la app.
+3. Pega el **mismo enlace** y **mismo correo institucional** en cualquier otro dispositivo.
+
+> ¿No quieres ocuparte de esto ahora? No hay problema — la app funciona perfectamente guardando los datos solo en el dispositivo.
+
+---
+
+## 11. Copia de seguridad manual (¡recomendado!)
+
+Dentro del panel de herramientas:
+- **💾 Descargar copia de seguridad** — descarga un archivo con todo.
+- **📂 Restaurar copia de seguridad** — recupera los datos desde ese archivo.
+
+---
+
+## 12. Personalizando colores, fuente, idioma y notas
+
+En el panel de herramientas, haz clic en **"⚙️ Configuración"** — con cuatro pestañas:
+- **🎨 Colores** — negro, blanco o tonos pastel.
+- **🔤 Fuente** — Predeterminada, Elegante, Redondeada, o Nórdica.
+- **🌐 Idioma** — Português (Brasil), Português (Portugal), English, Español, y el orden de la lista de clases (por número o por nombre A-Z).
+- **📊 Notas** — activa/desactiva si un día sin asistencia cuenta como Presente, si las incidencias bajan el Comportamiento automáticamente, y elige si Comportamiento, Revisiones de cuaderno, Actividades de la apostila y Tareas cuentan en la Nota del Bimestre.
+
+---
+
+## Lista completa de funcionalidades
+
+1. **Clases**: crear/renombrar/eliminar, color sorteado automáticamente, campo Escuela, participación en el Mapeamento, días de la semana, ordenamiento por número o por nombre, bimestres anteriores no registrados.
+2. **Bimestres**: crear/renombrar/eliminar, siempre en el orden numérico correcto, clases planificadas, navegación por pestañas.
+3. **Días de clase**: crear/editar/eliminar, más de una clase el mismo día, navegación por flechas/arrastre/deslizar.
+4. **Estudiantes**: uno por uno o pegar lista, búsqueda por nombre, tarjetas plegables con Asistencia siempre visible, semáforo de estado.
+5. **Registro diario**: recordatorio de Sala do Futuro, asistencia (incluyendo Falta médica, con opción de contar como Presente por defecto), trabajo del bimestre, Mapeamento diario, 13 tipos de incidencia (12 bajan el Comportamiento automáticamente, de forma configurable), comportamiento, observaciones con frases listas.
+6. **Registros del bimestre por estudiante**: revisiones de cuaderno, actividades de la apostila hechas y tareas hechas — contadores independientes que valen para todo el bimestre, cada uno con nota calculada e influyendo en el semáforo.
+7. **Estudiante en atención domiciliaria**: insignia por estudiante, con conteo propio de clases dadas.
+8. **Mapeamento**: activación por clase, participación por estudiante.
+9. **Actividades, Evaluaciones y Exámenes Externos**: registro libre, notas con tope de 0–10, nota manual para bimestres sin evaluación.
+10. **Resúmenes**: por bimestre y del año, con columnas de bimestres anteriores y gráficos.
+11. **Exportación**: informe para impresión/PDF y exportación a Word/Google Docs.
+12. **Copia de seguridad manual**: descargar y restaurar un archivo con todos los datos.
+13. **Sincronización**: entre dispositivos, vía Hoja de Cálculo de Google.
+14. **Configuración**: colores, 4 fuentes, 4 idiomas, orden de la lista de clases, y una pestaña de Notas completa.
+15. **PWA**: instalable, funciona 100% sin conexión, se actualiza sola.
+16. **Panel de herramientas**: barra vertical a la derecha.
+17. **Ícono propio**: sin fondo, preparado para `.apk`/`.exe` vía PWABuilder.
+
+---
+
+## Preguntas frecuentes
+
+- **Perdí la sincronización, ¿y ahora?** Tus datos siguen guardados en el dispositivo normalmente.
+- **¿Borré algo por error?** Toda eliminación pide confirmación antes.
+- **¿La app no abre sin internet?** Eso solo funciona una vez instalada como aplicación. Desde el navegador normal, hace falta estar conectado.
+
